@@ -1,0 +1,66 @@
+html{
+    height: 100%;
+    text-align: center;
+  }
+  
+  body{
+    background: linear-gradient(hsl(259, 98%, 77%), #001e57);
+    color: white;
+    font-family: "Trebuchet MS";
+    
+  }
+  .container{
+    width: 360px;
+    margin: 60px auto;
+    text-align: center;
+  }
+  
+  img{
+    width: 100px;
+    border-radius: 100px;
+    
+  }
+  
+  h1{
+    font-size: 24px;
+  }
+  
+  h2{
+    font-size: 18px;
+    font-weight: 100;
+  }
+  
+  .buttons{
+    margin-top: 40px;
+  }
+  
+  button{
+    width: 50%;
+    height: 48px;
+    border: none;
+    border-radius: 40px;
+    font-size: 18px;
+    color: darkblue;
+    background-color: white;
+    margin-bottom: 16px;
+    cursor: pointer;
+  }
+  button {
+    font-size: 18px;
+    color: purple;
+    cursor: pointer;
+    border: 2px solid purple;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  .first {
+    text-align: center;
+  }
+  .img-warrior {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
